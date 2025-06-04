@@ -1,8 +1,8 @@
 export default function SocialMediaSection() {
     const socials = [
-        { name: "Twitter", username: "@yourusername" },
-        { name: "LinkedIn", username: "@yourusername" },
-        { name: "GitHub", username: "@yourusername" },
+        { name: "Twitter", username: "@Machiorpolly" },
+        { name: "LinkedIn", username: "@himanshusaini5888" },
+        { name: "GitHub", username: "@Machiorpolly" },
     ];
 
     return (

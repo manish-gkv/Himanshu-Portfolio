@@ -8,9 +8,6 @@ export default function Project( project ) {
                 <div className="text-black font-medium">
                     {project.name}
                 </div>
-                <div className="">
-                    <Arrow />
-                </div>
             </div>
             <div className="col-span-2">
                 <div>

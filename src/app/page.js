@@ -6,11 +6,10 @@ import SocialMediaSection from "@/components/SocialMediaSection";
 
 export default function Home() {
   return (
-    <div className="px-75 pb-20 text-xl">
+    <div className="px-100 pb-20 text-md">
       <Hero />
       <ProjectSection />
       <MiddleSection />
-      <ImageSection />
       <SocialMediaSection />
     </div>
   );

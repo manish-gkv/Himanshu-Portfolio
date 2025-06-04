@@ -2,13 +2,17 @@ export default function MiddleSection() {
     return (
         <>
             <div className="mt-10 text-grey-900">
-                <p >Previously, I worked at Prosper Robotics, Convex, Jump Trading, Scale AI, and Nvidia. I’ve also independently published things in the past, like a physics book, combinatorics research, and graphics tutorials used by thousands. Before that, I won two gold medals at the International Olympiad in Informatics.</p>
+                <p >
+                    My work is primarily focused on building automated data pipelines using Reltio, AWS, and Airflow. I work on integrating and orchestrating data across systems, ensuring clean, secure, and well-governed master data in Reltio through API-driven workflows and cloud-native tools.
+                 </p>
             </div>
             <div className="mt-10 text-grey-900">
-                <p >I recently graduated from Harvard, where I was a teaching fellow for upper-level CS classes, wrote my thesis on Datalog, and studied art, music, and sociology. I am a classical violist and enjoy making music with others (1, 2, 3, 4, 5, 6, 7, 8).</p>
+                <p >
+                    I graduated from GKV Haridwar, where I studied Computer Science with coursework focused Computer Networks, Operating Systems, and Data Structures. I also have a keen interest in Machine Learning.
+                </p>
             </div>
             <div className="mt-10 text-grey-900">
-                <p >Other interests: math, physics, reading, photography, and biking.</p>
+                <p >Other interests: math, anime, comics, and movies.</p>
             </div>
         </>
     );

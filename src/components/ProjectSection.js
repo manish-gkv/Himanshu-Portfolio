@@ -7,10 +7,9 @@ export default function ProjectSection() {
                 <div>
                     Notable Project work:
                 </div>
-                <Project name="sshx" description = "secure web-based, collaborative terminal"/>
-                <Project name="Bore" description = "bypass your NAT in just 400 lines of code" extraInfo="9500+ stars on GitHub"/>
-                <Project name="Percival" description = "reactive notebooks for exploratory data analysis" />
-                <Project name="Rustpad"  description = "self-hosted collaborative text editor" extraInfo="6M+ downloads"/>
+                {/* <Project name="sshx" description = "secure web-based, collaborative terminal"/> */}
+                <Project name="Online Judge" description="A web-based platform for coding competitions and practice." />
+                <Project name="Image Classifier" description="A CNN based image classifier." />
             </div>
         </>
     );
