@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Himanshu Saini",
   description:
-    "Personal website of Himanshu Saini, a software engineer, researcher, and designer.",
+    "Personal website of Himanshu Saini, a software engineer and problem solver.",
 };
 
 export default function RootLayout({ children }) {
