@@ -1,7 +1,7 @@
 export default function Resume(){
     return (
-        <>
-        <div className="px-100 text-md mt-10">
+        <div className="px-4 sm:px-6 md:px-50 lg:px-50 xl:px-100 2xl:px-100 pb-20 text-base sm:text-lg">
+        <div className="text-md mt-10">
             <div className="font-bold text-xl pb-5">Education</div>
             <div className="flex justify-between items-ends">
                 <p>Gurukul Kangri University</p>
@@ -25,7 +25,7 @@ export default function Resume(){
             </div>
         </div>
 
-        <div className="px-100 text-md mt-10">
+        <div className="text-md mt-10">
             <div className="font-bold text-lg pb-5">Professional Experience</div>
             <div className="mb-8">
                 <h3 className="font-medium">
@@ -67,7 +67,7 @@ export default function Resume(){
             </div>
         </div>
 
-        <div className="px-100 text-md mt-10 pb-10">
+        <div className="text-md mt-10 pb-10">
             <div className="font-bold text-xl pb-5">Awards and Honors</div>
             <ul className="list-disc pl-5">
                 <li>1st rank in GeeksForGeeks Data Analysis Competition (2022)</li>
@@ -76,6 +76,6 @@ export default function Resume(){
                 <li>Pupil on Codeforces and 3* on CodeChef</li>
             </ul>
         </div>
-    </>
+    </div>
     );
 }
