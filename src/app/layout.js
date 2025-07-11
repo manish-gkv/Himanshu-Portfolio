@@ -17,6 +17,11 @@ export const metadata = {
   title: "Himanshu Saini",
   description:
     "Personal website of Himanshu Saini, a software engineer and problem solver.",
+  name: "Himanshu Saini",
+  content: "Personal website of Himanshu Saini, a software engineer and problem solver.",
+  keywords: ["himanshu saini", "himanshu saini TCS", "himanshu saini data engineer", "himanshu saini software developer",
+    "himanshu saini Noida"
+  ]
 };
 
 export default function RootLayout({ children }) {
